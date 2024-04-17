@@ -1,6 +1,5 @@
 const btnSaveTask = document.querySelector('.app__button--add-task')
 const btnCancelTask = document.querySelector('.app__form-footer__button--cancel')
-const btnDeleteTask = document.querySelector('.app__form-footer__button--delete')
 const formAddTask = document.querySelector('.app__form-add-task')
 const textarea = document.querySelector('.app__form-textarea')
 const ulTasks = document.querySelector('.app__section-task-list')
